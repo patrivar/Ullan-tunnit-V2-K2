@@ -1,0 +1,26 @@
+#space {
+    margin-top: 100px;
+    height: 100vh;
+    position: relative;
+    background-color: black;
+}
+
+.astro {
+    position: fixed;
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.space1 {
+    background-image: url(Archive/ISS.jpg);
+}
+
+.space2 {
+    background-image: url(Archive/shuttle.png);
+}
+
+.space3 {
+    background-image: url(Archive/astronaut.png);
+}
